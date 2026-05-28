@@ -147,54 +147,30 @@ If validation fails → retry prompt is triggered
 AI regenerates corrected output
 If retry still fails → failure is logged
 
-# Screenshots 📸
-## Login Page
+# 📸 Screenshots
 
+## Login Page
 ![Login](./screenshots/login.png)
 
----
-
 ## Register Page
-
 ![Register](./screenshots/register.png)
 
----
-
 ## Schema Creator
-
-![Schema Creator](./screenshots/schema.png)
-
-![Schema Creator](./screenshots/schema2.png)
-
----
+![Schema](./screenshots/schema.png)
+![Schema](./screenshots/schema2.png)
 
 ## AI Output Validator
-
 ![Validator](./screenshots/validator.png)
-
 ![Validator](./screenshots/validator2.png)
 
----
-
 ## Failure Dashboard
-
-![Failure Dashboard](./screenshots/failure-dashboard.png)
-
----
+![Failures](./screenshots/failure-dashboard.png)
 
 ## Metrics Dashboard
+![Metrics](./screenshots/metrics-dashboard.png)
 
-![Metrics Dashboard](./screenshots/metrics-dashboard.png)
-
----
-
-## Backend Server Logs
-
-This shows backend running successfully with API requests.
-
-![Backend Terminal Output](./screenshots/terminal-output.png)
-
----
+## Backend Logs
+![Logs](./screenshots/terminal-output.png)
 
 🚀 Future Improvements
 Real Gemini / OpenAI API integration
