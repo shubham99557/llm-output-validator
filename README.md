@@ -150,7 +150,7 @@ If retry still fails → failure is logged
 # 📸 Screenshots
 
 ## Login Page
-![Login](screenshots/login.png)
+![Login](https://raw.githubusercontent.com/shubham99557/llm-output-validator/main/screenshots/login.png)
 
 ## Register Page
 ![Register](./screenshots/register.png)
