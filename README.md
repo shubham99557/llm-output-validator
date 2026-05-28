@@ -164,7 +164,7 @@ If retry still fails → failure is logged
 ![Validator](./screenshots/validator2.png)
 
 ## Failure Dashboard
-![Failures](screenshots/failure-dashboard.png)
+![Failures](./screenshots/failure-dashboard.png)
 
 ## Metrics Dashboard
 ![Metrics](./screenshots/metrics-dashboard.png)
