@@ -150,7 +150,7 @@ If retry still fails → failure is logged
 # 📸 Screenshots
 
 ## Login Page
-![Login](./frontend/screenshots/login.png)
+![Login](screenshots/login.png)
 
 ## Register Page
 ![Register](./screenshots/register.png)
