@@ -92,7 +92,7 @@ llm-output-validator/
 
 ## 1. Clone Repository
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/shubham99557/llm-output-validator
 cd llm-output-validator
 🔥 Backend Setup
 cd backend
