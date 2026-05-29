@@ -150,40 +150,48 @@ If retry still fails → failure is logged
 
 ## Login Page
 
-![Login](./screenshots/login.png)
+![Login](screenshots/login.png)
 
 ---
 
 ## Register Page
-![Register](./screenshots/register.png)
+![Register](screenshots/register.png)
 
 ## Schema Creator
-![Schema](./screenshots/schema.png)
-![Schema](./screenshots/schema2.png)
+![Schema](screenshots/schema.png)
+![Schema](screenshots/schema2.png)
 
 ## AI Output Validator
-![Validator](./screenshots/validator.png)
-![Validator](./screenshots/validator2.png)
+![Validator](screenshots/validator.png)
+![Validator](screenshots/validator2.png)
 
 ## Failure Dashboard
-![Failures](./screenshots/failure-dashboard.png)
+![Failures](screenshots/failure-dashboard.png)
 
 ## Metrics Dashboard
-![Metrics](./screenshots/metrics-dashboard.png)
+![Metrics](screenshots/metrics-dashboard.png)
 
 ## Backend Logs
-![Logs](./screenshots/terminal-output.png)
+![Logs](screenshots/terminal-output.png)
 
-🚀 Future Improvements
-Real Gemini / OpenAI API integration
-JWT middleware protection
-Export logs as CSV
-User-specific schemas
-Advanced analytics charts
-Docker deployment
-Role-based access system
-👨‍💻 Author
+---
 
-SHUBHAM RAJ
+# 🔮 Future Improvements
+
+- Real Gemini / OpenAI API integration
+- JWT middleware protection
+- Export logs as CSV
+- User-specific schemas
+- Advanced analytics charts
+- Docker deployment
+- Role-based access system
+
+---
+
+# 👨‍💻 Author
+
+**SHUBHAM RAJ**
 B.Tech CSE
 Sikkim Manipal Institute of Technology
+
+---
