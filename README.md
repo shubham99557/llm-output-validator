@@ -235,7 +235,7 @@ GET	/metrics	Get analytics metrics
 
 ### 🎥 Project Demo Video
 
-[![Watch the Demo Video](https://drive.google.com/file/d/1ri24Is2hArCXt8AMdzfcQFeKrLJg7-YX/view?usp=sharing)
+[![Watch the Demo Video](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop&q=60)](https://drive.google.com/file/d/1ri24Is2hArCXt8AMdzfcQFeKrLJg7-YX/view?usp=sharing)
 
 *Click the image above to watch the full system walkthrough on Google Drive.*
 
