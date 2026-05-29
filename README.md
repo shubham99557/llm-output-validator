@@ -1,4 +1,5 @@
-🚀 LLM Output Validator
+# 🚀 LLM Output Validator
+
 A full-stack AI-powered JSON validation system with schema enforcement, retry logic, failure logging, and analytics dashboard.
 
 Built with React, Node.js, Express, SQLite, and Zod.
@@ -93,7 +94,11 @@ llm-output-validator/
 ```bash
 git clone YOUR_GITHUB_REPO_LINK
 cd llm-output-validator
-🔥 Backend Setup
+
+---
+
+# 🔥 Backend Setup
+
 cd backend
 npm install
 node server.js
@@ -101,7 +106,11 @@ node server.js
 Backend runs at:
 
 http://localhost:5000
-🎨 Frontend Setup
+
+---
+
+# 🎨 Frontend Setup
+
 cd frontend
 npm install
 npm run dev
@@ -109,42 +118,81 @@ npm run dev
 Frontend runs at:
 
 http://localhost:5173
-📡 API Routes
-🔐 Authentication
+
+---
+
+# 📡 API Routes
+
+## 🔐 Authentication
+
 Method	Route	Description
 POST	/auth/register	Register user
 POST	/auth/login	Login user
-📦 Schemas
+
+---
+
+# 📦 Schemas
+
 Method	Route	Description
 POST	/schemas	Create schema
 GET	/schemas	Get all schemas
-🤖 Validation
+
+---
+
+# 🤖 Validation
+
 Method	Route	Description
 POST	/call	Generate + validate AI output
-📊 Failures
+
+---
+
+# 📊 Failures
+
 Method	Route	Description
 GET	/failures	Get validation failures
-📈 Metrics
+
+---
+
+# 📈 Metrics
+
 Method	Route	Description
 GET	/metrics	Get analytics metrics
-📄 Example Schema
+
+---
+
+# 📄 Example Schema
+---
+
 {
   "name": "string",
   "age": "number",
   "skills": ["string"]
 }
-✅ Example Validated Output
+
+---
+
+# ✅ Example Validated Output
+
+---
 {
   "name": "John",
   "age": 25,
   "skills": ["React", "Node.js"]
 }
-🔁 Retry Logic
-AI output is generated
-Validation is performed using Zod
-If validation fails → retry prompt is triggered
-AI regenerates corrected output
-If retry still fails → failure is logged
+
+---
+
+# 🔁 Retry Logic
+
+- AI output is generated
+- Validation is performed using Zod
+- If validation fails → retry prompt is triggered
+- AI regenerates corrected output
+- If retry still fails → failure is logged
+
+---
+
+---
 
 # 📸 Screenshots
 
@@ -157,19 +205,29 @@ If retry still fails → failure is logged
 ## Register Page
 ![Register](screenshots/register.png)
 
+---
+
 ## Schema Creator
 ![Schema](screenshots/schema.png)
 ![Schema](screenshots/schema2.png)
+
+---
 
 ## AI Output Validator
 ![Validator](screenshots/validator.png)
 ![Validator](screenshots/validator2.png)
 
+---
+
 ## Failure Dashboard
 ![Failures](screenshots/failure-dashboard.png)
 
+---
+
 ## Metrics Dashboard
 ![Metrics](screenshots/metrics-dashboard.png)
+
+---
 
 ## Backend Logs
 ![Logs](screenshots/terminal-output.png)
