@@ -91,7 +91,6 @@ llm-output-validator/
 # ⚙️ Installation & Setup
 
 ## 1. Clone Repository
-```bash
 git clone YOUR_GITHUB_REPO_LINK
 cd llm-output-validator
 
