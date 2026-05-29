@@ -64,26 +64,28 @@ Built with React, Node.js, Express, SQLite, and Zod.
 # 📁 Project Structure
 
 
+```
 llm-output-validator/
 │
 ├── backend/
-│ ├── routes/
-│ ├── services/
-│ ├── validators/
-│ ├── database.js
-│ ├── server.js
-│ └── validator.db
+│   ├── routes/
+│   ├── services/
+│   ├── validators/
+│   ├── database.js
+│   ├── server.js
+│   └── validator.db
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── api/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── layout/
-│ │ ├── pages/
-│ │ └── App.jsx
+│   └── src/
+│       ├── api/
+│       ├── components/
+│       ├── context/
+│       ├── layout/
+│       ├── pages/
+│       └── App.jsx
 │
 └── README.md
+```
 
 
 ---
