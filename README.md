@@ -233,6 +233,12 @@ GET	/metrics	Get analytics metrics
 
 ---
 
+# Live Demo
+
+[![Live Demo](https://drive.google.com/file/d/1ri24Is2hArCXt8AMdzfcQFeKrLJg7-YX/view?usp=sharing)
+
+---
+
 # 🔮 Future Improvements
 
 - Real Gemini / OpenAI API integration
